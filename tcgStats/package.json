@@ -1,0 +1,11 @@
+{
+  "name": "tcgStats",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "2.3.11",
+    "cheerio": "0.18.0",
+    "influx": "^3.4.0",
+    "request": "2.49.0"
+  }
+}

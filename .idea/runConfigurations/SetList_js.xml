@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SetList.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="SetList.js" working-dir="$PROJECT_DIR$/tcgStats/app/scrapers/gatherer" coffeescript-path="C:\Users\dnelson\AppData\Roaming\npm\coffee">
+    <RunnerSettings RunnerId="Basic" />
+    <RunnerSettings RunnerId="debuggableProgram" />
+    <ConfigurationWrapper RunnerId="Basic" />
+    <ConfigurationWrapper RunnerId="debuggableProgram" />
+    <method>
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Coffeescript" />
+    </method>
+  </configuration>
+</component>
